@@ -1,5 +1,11 @@
 # Car Buying Coach: a Claude skill built from TikTok videos
 
+> **Moved.** This skill now lives in
+> [claude-code-skills](https://github.com/carljibrilsulaimanii/claude-code-skills):
+> the skill under `skills/car-buying-coach/`, the upload bundle under `bundles/`, and
+> the build steps under `pipelines/tiktok-to-skill/`. This repo is archived and won't
+> be updated.
+
 A Claude skill that coaches you through buying or leasing a car and drafts the
 texts and emails you send dealerships. It was built by downloading about 1,400
 videos from a former dealership salesperson and finance manager, transcribing
